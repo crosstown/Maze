@@ -7,7 +7,9 @@ Instructions
 
 This repository has no branches. You can use the only branch with no restriction.
 1. Make sure you have these installed
-    - [git](http://git-scm.com/)
+   
+   - [git](http://git-scm.com/)
     
-Clone this repository into your local machine using the terminal (mac) or Gitbash (PC) > git clone https://github.com/crosstown/Maze.git
+Clone this repository into your local machine using the terminal (mac) or Gitbash (PC)
+> git clone https://github.com/crosstown/Maze.git
 CD to the folder cd maze
