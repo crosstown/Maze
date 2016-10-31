@@ -12,4 +12,5 @@ This repository has no branches. You can use the only branch with no restriction
     
 Clone this repository into your local machine using the terminal (mac) or Gitbash (PC)
 > git clone https://github.com/crosstown/Maze.git
+
 CD to the folder cd maze
